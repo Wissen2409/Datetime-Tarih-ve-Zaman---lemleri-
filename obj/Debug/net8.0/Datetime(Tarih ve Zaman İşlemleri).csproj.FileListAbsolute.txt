@@ -1,0 +1,10 @@
+/Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/bin/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri)
+/Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/bin/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri).dll
+/Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/bin/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri).pdb
+/Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/obj/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri).GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/obj/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri).AssemblyInfoInputs.cache
+/Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/obj/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri).AssemblyInfo.cs
+/Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/obj/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri).csproj.CoreCompileInputs.cache
+/Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/obj/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri).dll
+/Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/obj/Debug/net8.0/refint/Datetime(Tarih ve Zaman İşlemleri).dll
+/Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/obj/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri).pdb

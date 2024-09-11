@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Datetime(Tarih ve Zaman İşlemleri)/1.0.0": {
+        "runtime": {
+          "Datetime(Tarih ve Zaman İşlemleri).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datetime(Tarih ve Zaman İşlemleri)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
