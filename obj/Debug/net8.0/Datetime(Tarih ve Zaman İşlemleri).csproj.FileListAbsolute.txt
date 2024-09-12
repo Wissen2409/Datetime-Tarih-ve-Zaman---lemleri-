@@ -8,3 +8,4 @@
 /Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/obj/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri).dll
 /Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/obj/Debug/net8.0/refint/Datetime(Tarih ve Zaman İşlemleri).dll
 /Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/obj/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri).pdb
+/Users/emrahelis/Desktop/Datetime(Tarih ve Zaman İşlemleri)/obj/Debug/net8.0/Datetime(Tarih ve Zaman İşlemleri).sourcelink.json

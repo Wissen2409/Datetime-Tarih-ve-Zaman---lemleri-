@@ -79,6 +79,12 @@ DateTime birthDate = new DateTime(year,mouth,day);
 TimeSpan fark = DateTime.Now-birthDate;
 Console.WriteLine("{0} yıldır dünyadasınız",fark.TotalDays/365);
 
+// iki türkiyede çalışan programın entegrasyonun
+// iki farklı ülkede çalışan entegrasyon
+
+Console.WriteLine(DateTime.UtcNow.ToString());
+
+
 
 
 
